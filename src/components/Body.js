@@ -9,7 +9,9 @@ function Body() {
         </div>
         <div class="bigBox">
             <div class = 'welcome'>
-                <p>hello</p>
+                <h2 class = 'h1'>Welcome To The JUNGLE</h2>
+                <h1 class = 'h2'>IT'S NICE TO MEET YOU</h1>
+                <button class = 'btn'>Tell Me More</button>
             </div>
         </div>
         </div>
